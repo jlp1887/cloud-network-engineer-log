@@ -1,0 +1,2 @@
+- 1st day was an all refresher of linux commands and how to work with github
+- Overall a success - as always a lot of setting up and usage issues, but i worked through it
